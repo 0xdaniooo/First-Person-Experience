@@ -1,5 +1,5 @@
 # First-Person-Experience
-Source code for a Unity game I developed at my 2nd year of college (game playable at https://0xdaniooo.itch.io/first-person-experience-project-1)
+Source code for a Unity game I developed at my 2nd year of college for my first project (game playable at https://0xdaniooo.itch.io/first-person-experience-project-1)
 
 ## Features
 - Simple enemy AI
